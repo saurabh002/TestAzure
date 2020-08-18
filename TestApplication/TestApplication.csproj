@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+	<RestoreSources>$(RestoreSources);C:\Users\insmaurya20\source\repos\TestLibrary\TestLibrary\bin\Debug;https://api.nuget.org/v3/index.json</RestoreSources>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="testPack" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
