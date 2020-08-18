@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using TestLibrary;
+//using TestLibrary;
 
 namespace TestApplication.Controllers
 {
@@ -22,7 +22,8 @@ namespace TestApplication.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return Helper.Message();
+            return "hi"
+;           // return Helper.Message();
         }
 
         // POST api/values

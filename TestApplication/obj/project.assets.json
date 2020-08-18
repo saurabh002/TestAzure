@@ -4333,15 +4333,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "testPack/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp2.1/TestLibrary.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.1/TestLibrary.dll": {}
-        }
       }
     }
   },
@@ -11879,25 +11870,13 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "testPack/1.0.0": {
-      "sha512": "dPkxFuwKYTrYgQ2w3fsb7U4/4W1Zhey0qpXfN2cj20XTBE/PExUIzoilOFcfGJ/WNVXElhjS0fotFFE16XRe/w==",
-      "type": "package",
-      "path": "testpack/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        "lib/netcoreapp2.1/TestLibrary.dll",
-        "testpack.1.0.0.nupkg.sha512",
-        "testpack.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
-      "Microsoft.NETCore.App >= 2.1.0",
-      "testPack >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -11920,7 +11899,7 @@
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Users\\insmaurya20\\source\\repos\\TestLibrary\\TestLibrary\\bin\\Debug": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11953,10 +11932,6 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
-          },
-          "testPack": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           }
         },
         "imports": [

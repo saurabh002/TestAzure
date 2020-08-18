@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7stAfVELJYz+OJmiIYJE9PrY3SF2QprC7h9oqTOwZPeRpq/qixxzUtDpZf29FKJMgF99Gk7vGyfZzj4bZEIZHA==",
+  "dgSpecHash": "x6wsmCA3aUH9VkRdWqvx3v5+KJNwunjJWUEhpyrHVfUf4xaoiow8hpyq1Y/7j7mJnuzenzbKogyAJ7t0oaVK8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\insmaurya20\\source\\repos\\TestApplication\\TestApplication\\TestApplication.csproj",
   "expectedPackageFiles": [
@@ -280,8 +280,7 @@
     "C:\\Users\\insmaurya20\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\insmaurya20\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\insmaurya20\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\insmaurya20\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\insmaurya20\\.nuget\\packages\\testpack\\1.0.0\\testpack.1.0.0.nupkg.sha512"
+    "C:\\Users\\insmaurya20\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

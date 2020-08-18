@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <packageSources>
+    <clear />
+    <add key="mypackage" value="https://pkgs.dev.azure.com/mesaurabh2711/TestProject/_packaging/mypackage/nuget/v3/index.json" />
+  </packageSources>
+</configuration>
