@@ -1,0 +1,9 @@
+{
+	"name": "firsradf27",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d6a739d-458a-4401-8f40-4572449b1d7d",
+		"tenantId": "68ec80cf-c6aa-4cbf-868b-a8f91c75789d"
+	}
+}
